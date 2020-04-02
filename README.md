@@ -1,2 +1,2 @@
 # Weater-Station
-weather station
+Create a weather station using Arduino Frame Work
